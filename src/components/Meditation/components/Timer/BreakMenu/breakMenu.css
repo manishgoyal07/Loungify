@@ -1,0 +1,36 @@
+#break-menu{
+  font-size: 1.3em;
+}
+
+#break-menu-options {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  width: 90%;
+}
+
+#break-menu-dialogue {
+  position: absolute;
+  left: 50%;
+  top: 55%;
+  transform: translate(-50%,-50%);
+  margin-left: 30px;
+}
+
+#break-menu-text {
+  margin-left: -5px;
+}
+
+#break-menu-options #break-menu-text{
+  margin-left: 50px;
+}
+
+#clockIcon {
+  padding: 5px;
+  margin-left: 15px;
+}
+
+#meditationIcon, #clockIcon{
+  margin-left: 65px;
+}

@@ -1,0 +1,14 @@
+.header{
+    width:100%;
+    position: absolute;
+    z-index: 2;
+  }
+  nav{
+    margin:20px; 
+  }
+
+  .navbar-items{
+    font-size: large;
+    gap:40px;
+  }
+  

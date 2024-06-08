@@ -1,0 +1,17 @@
+.game-home-page-img{
+    height:300px;
+    width:600px;
+}
+
+.play-game-btn{
+    border: 1px solid white;
+    color:black;
+    background-color: white;
+}
+
+.game-card{
+    margin:auto;
+    padding:5%;
+}
+
+

@@ -1,0 +1,33 @@
+body {
+  background-color: #123;
+}
+.console {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* max-width: 33vw; */
+}
+.canvas {
+    /* margin-top: 1rem; */
+  border: 3px solid white;
+}
+.txt {
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+  /* margin-right: 100px; */
+}
+
+.header {
+  /* margin-top: 30px; */
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+}
+.container {
+  display: flex;
+  align-items: center;
+  max-width: 70vw;
+}
+

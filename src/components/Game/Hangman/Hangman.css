@@ -1,0 +1,62 @@
+.hangman-container {
+  text-align: center !important;
+}
+
+.Hangman {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  zoom: 1.3;
+  width: 70vw;
+  height: 60vh;
+  background-color: rgb(92, 127, 163);
+  padding: 20px 10px 0px 10px;
+  margin: auto;
+}
+.Hangman img {
+  border: 10px solid rgb(234, 80, 80);
+  height: 400px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.27),
+    0 0 40px rgba(0, 0, 0, 0.06) inset;
+}
+
+.header {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.Hangman-word {
+  letter-spacing: 1em;
+  margin: 0.4em -1em 0.2em 0;
+}
+
+.Hangman-btns {
+  width: 350px;
+}
+.key {
+  font-size: 1.3rem;
+  cursor: pointer;
+  width: 40px;
+  letter-spacing: 1px;
+  box-shadow: 0 3px rgb(176, 143, 188);
+  padding-top: 2px;
+}
+
+.key:hover {
+  background-color: #0097a7;
+}
+
+.key:disabled {
+  background: #bdbdbd;
+  color: #eeeeee;
+  box-shadow: 0 6px #9e9e9e;
+}
+.reset {
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

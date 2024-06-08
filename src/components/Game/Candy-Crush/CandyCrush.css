@@ -1,0 +1,27 @@
+.score {
+  display: flex;
+  margin: auto;
+}
+
+.game-container {
+  text-align: center;
+  margin: auto;
+  padding-top: 4rem;
+}
+.game {
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  width: 30vw;
+  flex-wrap: wrap;
+  padding: 1rem;
+  box-sizing: content-box;
+  align-items: center;
+  margin: auto;
+}
+
+.game img {
+  width: 3rem;
+  height: 3rem;
+  margin: 2px;
+}

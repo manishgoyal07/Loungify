@@ -1,0 +1,129 @@
+.home-page{
+  background: black;
+  overflow: hidden;
+}
+
+.logo-section{
+  position: absolute;
+}
+
+.bg-img{
+  width:100vw;
+  height:100vh;
+  background-image: url("/public/images/Homepage/background7.jpg");
+  background-size:100%;
+  background-repeat: no-repeat;
+  /* filter: blur(8px);
+  -webkit-filter: blur(8px); */
+
+}
+
+.middle-section{
+  text-align: center;
+  color:white;
+  padding:8% 15%;
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.4); 
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 1200px;
+  padding: 20px;
+  text-align: center;
+}
+.brand{
+  font-size: 120px;
+  width:90%;
+  margin:auto;
+  text-align: center;
+}
+
+.brand img{
+  margin: auto ;
+}
+
+.description{
+  margin-top:40px;
+  font-size:20px;
+}
+
+.home-page-btn{
+  font-weight: bold;
+  border:1px solid white;
+  padding-inline:30px;
+  padding-block: 10px;
+}
+
+button:hover{
+  background-color: white;
+  color:black;
+}
+
+
+
+/* LANDING PAGE  */
+/* .main-body{
+  background-color: black;
+}
+
+.main-body:hover .section{
+  filter: blur(8px);
+}
+
+.section-items{
+  margin:auto;
+  text-align: center;
+  top:50%;
+  color:white;
+}
+
+.main-body .section:hover{
+  filter: blur(0);
+}
+
+.gaming{
+  background-image: url(/public/images/gaming1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  overflow:hidden ;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+.news{
+  background-image: url(/public/images/news1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.music{
+  background-image: url(/public/images/music.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
+
+.meditation{
+  background-image: url(/public/images/meditation.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+.gaming:hover{
+  transition: .2s;
+}
+.news:hover{
+  transition: .2s;
+}
+.music:hover{
+  transition: .2s;
+}
+.meditation:hover{
+  transition: .2s;
+} */
+
+
+
+

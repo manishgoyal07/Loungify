@@ -1,0 +1,17 @@
+#default-carousel{
+    margin:auto;
+    margin-top:150px;
+    height:350px;
+    width:1250px;
+    border:1px solid white;
+  }
+
+
+
+button{
+    border: none;
+}
+
+img{
+    background-size: cover;
+}

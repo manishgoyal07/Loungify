@@ -1,0 +1,98 @@
+.main-body{
+  position:absolute;
+  width:100vw;
+  height: 100vh;
+  background-color: rgb(41, 40, 40);
+  overflow-y: auto;
+}
+
+.card-section{
+  margin:40px 80px;
+}
+
+.card-inner{
+  margin: auto;
+  transition: .5s;
+}
+
+.card-inner:hover{
+  transform: scale(1.1);
+}
+
+
+.card:hover{
+
+}
+
+/* 
+.App {
+  text-align: center;
+  background-color: rgb(49, 47, 47);
+  margin:auto;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+#default-carousel{
+  position: relative;
+  margin-top: 150px;
+}
+
+.main{
+  width: 100vw;
+  margin: auto;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.card1-img{
+  background-image: url('./Scramble.jpeg');
+}
+.card2-img{
+  background-image: url('./Snake.jpeg');
+}
+.card3-img{
+  background-image: url('./RPS.jpg');
+}
+.card4-img{
+  background-image: url('./TTT.jpg');
+}
+.card5-img{
+  background-image: url('./Hangman.jpg');
+}
+.card6-img{
+  background-image: url('./Candy-Crush.jpg');
+}
+ */

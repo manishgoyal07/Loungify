@@ -1,0 +1,21 @@
+
+body {
+    @apply bg-gradient-to-r from-neutral-700 to-slate-700; /* Replace with the appropriate background color class */
+    overflow-y:auto;
+  }
+
+.spinner-border{
+  width: 3rem;
+  height: 3rem;
+}
+
+.navbar-brand{
+  height: 45;
+  width: 100;
+  padding-left:20;
+}
+
+.music-home-img{
+  height:90vh;
+  width:100vw;
+}
