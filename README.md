@@ -36,7 +36,7 @@ You may also see any lint errors in the console.
 
 # Video Tutorial
 
-![Click to here watch video tutorial of the app](https://drive.google.com/file/d/13AWklw7M7AqSdvsadMUuO6L5zCZ_GdSe/view?usp=sharing)
+[Click to here watch video tutorial of the app](https://drive.google.com/file/d/13AWklw7M7AqSdvsadMUuO6L5zCZ_GdSe/view?usp=sharing)
 
 # Screenshots
 
