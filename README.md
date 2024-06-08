@@ -1,14 +1,17 @@
 # What is Loungify?
-Loungify is a web application aimed at offering individuals a digital sanctuary for a brief respite from their demanding, fast-paced routines. 
+
+Loungify is a web application aimed at offering individuals a digital sanctuary for a brief respite from their demanding, fast-paced routines.
 
 # Objective :
-Our web application-Loungify, aims to counter the addictive nature of mainstream social media platforms like Instagram and Facebook, which often consume excessive time, hindering productivity and contributing to stress and depression. 
+
+Our web application-Loungify, aims to counter the addictive nature of mainstream social media platforms like Instagram and Facebook, which often consume excessive time, hindering productivity and contributing to stress and depression.
 Unlike these platforms, Loungify offers users a non-addictive space for quick 5-10 minute respite, allowing them to rejuvenate without the negative impact on their work and well-being.
 
 # Functionality
+
 - The platform acts as an all in one entertainment destination.
-- The user is provided with an option to choose among various entertainment options like News, Games, Jokes, and many more. 
-- Once chosen, the user is navigated to the chosen page where they can spend their leisure time performing various activities. 
+- The user is provided with an option to choose among various entertainment options like News, Games, Jokes, and many more.
+- Once chosen, the user is navigated to the chosen page where they can spend their leisure time performing various activities.
 - The UI design is Responsive and is user friendly for all age groups.
 
 # Getting Started with Create React App
@@ -19,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To run this project locally, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/Beast1610/music_app.git` 
+1. Clone this repository using `git clone https://github.com/Beast1610/music_app.git`
 2. Install dependencies using `npm install`
 3. Start the development server using `npm start`
 
@@ -31,6 +34,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+# Video Tutorial
+
+![Click to here watch video tutorial of the app](https://drive.google.com/file/d/13AWklw7M7AqSdvsadMUuO6L5zCZ_GdSe/view?usp=sharing)
+
 # Screenshots
 
 ![WhatsApp Image 2023-11-22 at 18 24 33_606a255c](https://github.com/Beast1610/Loungify/assets/111764205/1e7c2791-9efd-432d-b8dc-8cd26c443a49)
@@ -39,9 +46,3 @@ You may also see any lint errors in the console.
 ![(1)meditation page 1](https://github.com/Beast1610/Loungify/assets/111764205/d142e404-ad9e-42d5-ab72-4ed888ed29e3)
 ![image](https://github.com/Beast1610/Loungify/assets/111764205/7070a49f-1453-49b6-99a7-cebe3b20d74c)
 ![image](https://github.com/Beast1610/Loungify/assets/111764205/48f01038-fc5a-48b8-b6bf-60fc84ccd0fc)
-
-
-
-
-
-
